@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AB55E5C51CAC162300187342 /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB55E5C41CAC162300187342 /* Users.swift */; };
+		AB55E5C81CAC305E00187342 /* CoreDataFunções.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB55E5C71CAC305E00187342 /* CoreDataFunções.swift */; };
 		ABA4ACC41BF573D400C3DBEC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA4ACC31BF573D400C3DBEC /* AppDelegate.swift */; };
 		ABA4ACC61BF573D400C3DBEC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA4ACC51BF573D400C3DBEC /* ViewController.swift */; };
 		ABA4ACC91BF573D400C3DBEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA4ACC71BF573D400C3DBEC /* Main.storyboard */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AB55E5C41CAC162300187342 /* Users.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Users.swift; sourceTree = "<group>"; };
+		AB55E5C71CAC305E00187342 /* CoreDataFunções.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "CoreDataFunções.swift"; path = "../CoreDataFunções.swift"; sourceTree = "<group>"; };
 		ABA4ACC01BF573D400C3DBEC /* CoreTeste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreTeste.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABA4ACC31BF573D400C3DBEC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ABA4ACC51BF573D400C3DBEC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,8 +61,8 @@
 				ABA4ACC31BF573D400C3DBEC /* AppDelegate.swift */,
 				ABA4ACC51BF573D400C3DBEC /* ViewController.swift */,
 				ABA4ACC71BF573D400C3DBEC /* Main.storyboard */,
+				AB55E5C71CAC305E00187342 /* CoreDataFunções.swift */,
 				ABA4ACCD1BF573D400C3DBEC /* Assets.xcassets */,
-				AB55E5C41CAC162300187342 /* Users.swift */,
 				ABA4ACCF1BF573D400C3DBEC /* LaunchScreen.storyboard */,
 				ABA4ACD21BF573D400C3DBEC /* Info.plist */,
 				ABA4ACCA1BF573D400C3DBEC /* CoreTeste.xcdatamodeld */,
@@ -143,8 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABA4ACC61BF573D400C3DBEC /* ViewController.swift in Sources */,
-				AB55E5C51CAC162300187342 /* Users.swift in Sources */,
 				ABA4ACCC1BF573D400C3DBEC /* CoreTeste.xcdatamodeld in Sources */,
+				AB55E5C81CAC305E00187342 /* CoreDataFunções.swift in Sources */,
 				ABA4ACC41BF573D400C3DBEC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

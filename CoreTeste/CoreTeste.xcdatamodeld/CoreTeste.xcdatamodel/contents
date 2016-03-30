@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Automatic">
+    <entity name="Oito" syncable="YES">
+        <attribute name="dois" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Set" syncable="YES">
+        <attribute name="um" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Users" syncable="YES">
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sexo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Set" positionX="-63" positionY="9" width="128" height="60"/>
+        <element name="Users" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="Oito" positionX="-36" positionY="36" width="128" height="60"/>
+    </elements>
+</model>
